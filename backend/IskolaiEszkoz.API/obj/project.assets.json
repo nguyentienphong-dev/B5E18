@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net8.0": {
       "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.2": {
@@ -200,24 +200,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\nguyentp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\IskolaiEszkozok_TeljesProjekt\\IskolaiEszkozok_TeljesProjekt\\backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj",
+      "projectUniqueName": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj",
       "projectName": "IskolaiEszkoz.API",
-      "projectPath": "C:\\Users\\User\\Downloads\\IskolaiEszkozok_TeljesProjekt\\IskolaiEszkozok_TeljesProjekt\\backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\IskolaiEszkozok_TeljesProjekt\\IskolaiEszkozok_TeljesProjekt\\backend\\IskolaiEszkoz.API\\obj\\",
+      "projectPath": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj",
+      "packagesPath": "C:\\Users\\nguyentp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\nguyentp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -229,7 +224,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -244,11 +238,10 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
-        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "MySqlConnector": {
@@ -275,7 +268,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
