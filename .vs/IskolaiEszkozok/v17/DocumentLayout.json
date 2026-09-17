@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
               "ToolTip": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T11:34:07.62Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T11:29:39.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T11:29:39.401Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-16T11:16:14.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T11:16:14.621Z"
             }
           ]
         }

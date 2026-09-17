@@ -44,5 +44,5 @@ const EszkozokLekeres = () => {
 // addeventlistener segítségével figyelünk egy felhasználói eseményt.
 // Hogyha bekövetkezik ez az esemény (kattintás), akkor utána mehív egy fügvényt az addeventlistener -> EszkozokLekeres().
 document.getElementById("buttonLekerdezes")
-    .addEventListener('click', EszkozokLekeres());
+    .addEventListener("click", EszkozokLekeres);
 
