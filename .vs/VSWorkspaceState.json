@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\IskolaiEszkoz.API",
+    "\\backend\\IskolaiEszkoz.API\\Controllers",
+    "\\database",
+    "\\demo"
+  ],
+  "SelectedNode": "\\backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
+  "PreviewInSolutionExplorer": false
+}

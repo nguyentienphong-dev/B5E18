@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+<body>
+    <div class="container py-5">
+        <h1 class="h1">Eszköz lekérdezés</h1>
+
+        <Button class="btn btn-primary" id="buttonLekerdezes">Lekerdezes</Button>
+        
+        <div id="uzenet">...</div>
+
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <th>Id</th>
+                    <th>Nev</th>
+                    <th>Leltári szám</th>
+                    <th>Kategória</th>
+                    <th>Gyártó</th>
+                    <th>Modell</th>
+                    <th>Terem</th>
+                    <th>Állapot</th>
+                    <th>Használatban van</th>
+                    <th>Kölcsönözhető</th>
+                    <th>Beszerzési ár</th>
+                    <th>Beszerzési dátum</th>
+                </tr>
+                
+                <tread></tread>
+                <tbody id="eszkoztable">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

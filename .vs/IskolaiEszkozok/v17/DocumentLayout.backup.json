@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|c:\\users\\nguyentp\\desktop\\13\\fp\\b5e18\\backend\\iskolaieszkoz.api\\controllers\\eszkozcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|solutionrelative:backend\\iskolaieszkoz.api\\controllers\\eszkozcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|c:\\users\\nguyentp\\desktop\\13\\fp\\b5e18\\backend\\iskolaieszkoz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|solutionrelative:backend\\iskolaieszkoz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|c:\\users\\nguyentp\\desktop\\13\\fp\\b5e18\\backend\\iskolaieszkoz.api\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|solutionrelative:backend\\iskolaieszkoz.api\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|c:\\users\\nguyentp\\desktop\\13\\fp\\b5e18\\backend\\iskolaieszkoz.api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|solutionrelative:backend\\iskolaieszkoz.api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|c:\\users\\nguyentp\\desktop\\13\\fp\\b5e18\\backend\\iskolaieszkoz.api\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2D4DF9E2-7E74-4A9B-A1E4-0A4DC8F8F54A}|backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj|solutionrelative:backend\\iskolaieszkoz.api\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EszkozController.cs",
+              "DocumentMoniker": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
+              "RelativeDocumentMoniker": "backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
+              "ToolTip": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
+              "RelativeToolTip": "backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:34:07.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\Program.cs",
               "RelativeDocumentMoniker": "backend\\IskolaiEszkoz.API\\Program.cs",
               "ToolTip": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\Program.cs",
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T11:29:39.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\nguyentp\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "backend\\IskolaiEszkoz.API\\Properties\\launchSettings.json",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-16T11:29:22.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T11:29:22.673Z"
             },
             {
               "$type": "Document",
