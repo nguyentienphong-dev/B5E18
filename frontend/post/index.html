@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+</head>
+<body class="container" py-5>
+        <h1 class="mb-4">eszköz létrehozás</h1>
+
+        <form id=""eszkozForm>
+
+            <div class="row g-3">
+
+                <div class="col-md-6">
+                    <label for="nev" class="form-label">Név</label>
+                    <input id="nev" class="form-control" required>
+                </div>
+
+                <div class="col-md-6">
+                    <label for="leiratSzam" class="form-label">Leirat szám</label>
+                    <input id="leiratSzam" class="form-control" required>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="kategoria" class="form-label">Kategoria</label>
+                    <input id="kategoria" class="form-control" required>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="gyarto" class="form-label">Gyártó</label>
+                    <input id="gyarto" class="form-control" required>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="modell" class="form-label">Modell</label>
+                    <input id="modell" class="form-control" required>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="terem" class="form-label">Terem</label>
+                    <input id="terem" class="form-control" required>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="allapot" class="form-label">Állapot</label>
+                    <input id="allapot" class="form-control" required>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="beszerzesiAr" class="form-label">Beszerzési ár</label>
+                    <input id="beszerzesiAr" class="form-control" type="number" required>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="beszerzesiDatuma" class="form-label">Beszerzési dátuma</label>
+                    <input id="beszerzesiDatuma" class="form-control" type="date" required>
+                </div>
+
+                <div class="col-md-6 row"> 
+                    <div class="col-md-6">                      
+                        <div class="form-check mt-4">
+                            <input id="hasznalatbanVan" class="form-control-input" type="checkbox" required>
+                            <label for="hasznalatbanVan" class="form-check-label">Használatban van</label>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-6">
+                        <div class="form-check mt-4">
+                            <input id="kolcsonozheto" class="form-control-input" type="checkbox" required>
+                            <label for="kolcsonozheto" class="form-check-label">Kölcsönözhető</label>
+                        </div>
+                    </div>
+                </div>
+                <button class="btn btn-warning mt-4" type="submit">Létrehozás</button>
+        
+            </div>
+
+            
+        </form>
+
+        <div id="uzenet" class="mt-3">...</div>
+    </div>
+        
+    <script src="script.js"></script>
+</body>
+</html>

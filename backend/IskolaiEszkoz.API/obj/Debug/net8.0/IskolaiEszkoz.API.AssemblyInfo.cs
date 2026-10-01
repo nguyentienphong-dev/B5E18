@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IskolaiEszkoz.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9463b8140d2653d49a63d73270c57e6005eea784")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16396ab8e454a128457f13fac93853f6de870223")]
 [assembly: System.Reflection.AssemblyProductAttribute("IskolaiEszkoz.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IskolaiEszkoz.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
